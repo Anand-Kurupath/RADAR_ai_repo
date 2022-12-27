@@ -1,0 +1,38 @@
+Type,Industry,Priority,stock,entity_name
+BANK OF BARODA,Public Sector Banks,,bank of baroda,bank of baroda
+Union Bank of India,Public Sector Banks,,union bank of india,UNBK Union Bank of India
+State Bank of India,Public Sector Banks,,state bank of india,state bank of india
+HDFC Bank,Private Sector Banks,,hdfc,HDFC Bank
+ICICI BANK,Private Sector Banks,,icici bank,ICICI Bank
+KOTAK MAHINDRA,Private Sector Banks,,kotak mahindra,KOTAK MAHINDRA
+IDFC FIRST Bank,Private Sector Banks,,idfc first bank,IDFC First
+UTKARSH SMALL FINANCE,Small Finance Banks-Scheduled,,utkarsh small finance,UTKARSH SMALL FINANCE
+UJJIVAN SMALL FINANCE,Small Finance Banks-Scheduled,,ujjivan small finance,UJJIVAN SMALL FINANCE
+HONGKONG AND SHANGHAI BANKING,Foreign Banks,,hongkong and shanghai banking,HONGKONG AND SHANGHAI BANKING
+CITIBANK,Foreign Banks,,citibank,citibank india
+Paytm Payments Bank,Payments Banks,,paytm payments bank,paytm
+India Post Payments Bank,Payments Banks,,india post payments bank,India Post Payments Bank
+SHRIRAM CITY UNION FINANCE,NBFC,personal loan,shriram city union finance,SHRIRAM CITY UNION FINANCE
+SHRIRAM CITY UNION FINANCE,NBFC,two wheeler,shriram city union finance,Shriram Transport Finance
+Mahindra & Mahindra Financial,NBFC,tractor,mahindra & mahindra financial,M&MFIN
+Mahindra & Mahindra Financial,NBFC,agriculture,mahindra & mahindra financial,M&MFIN
+Bajaj Finance,NBFC,consumer finance,bajaj finance,Bajaj Finance
+Bajaj Finance,NBFC,personal loan,bajaj finance,Bajaj Finance
+HDFC Holdings,NBFC,house,hdfc holdings,HDFC Holdings Limited
+FIVE STAR BUSINESS FINANCE,NBFC,house,five star business finance,Five-Star Business Finance
+SBI Cards & Payment Services,NBFC,credit card,sbi cards & payment services,SBI Cards
+Muthoot Finance,NBFC,gold,muthoot finance,Muthoot Finance
+OXYZO FINANCIAL SERVICES,NBFC,supply chain,oxyzo financial services,Oxyzo Financial Services
+TVS CREDIT,NBFC,two wheeler,tvs credit,TVS CREDIT SERVICES
+HINDUJA LEYLAND FINANCE,NBFC,Commercial Vehicle,hinduja leyland finance,Hinduja Leyland Finance
+Hero Fincorp,NBFC,two wheeler,hero fincorp,Hero Fincorp
+Indian Renewable Energy Development Agency,NBFC,energy,indian renewable energy development agency,
+RBL,Private Sector Banks,,rbl bank,RBL bank
+PNB Housing,NBFC,,pnb housing,Punjab National Bank Housing Finance
+Yes bank,Private Sector Banks,,yes bank,YES Bank
+AU finance,Small Finance Banks-Scheduled,,au finance bank,AU Small Finance Bank
+SBM,Private Sector Banks,,sbm bank,SBM Bank
+SBM,Private Sector Banks,,sbm,SBM Bank
+RBL,Private Sector Banks,,rbl,RBL bank
+PNB Housing,NBFC,,pnp housing,Punjab National Bank Housing Finance
+AU finance,Small Finance Banks-Scheduled,,au finance,AU Small Finance Bank

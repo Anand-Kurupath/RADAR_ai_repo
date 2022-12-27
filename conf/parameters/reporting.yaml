@@ -1,0 +1,10 @@
+reporting:
+  jdbcHostname:
+    - <server name>
+  jdbcPort:
+    - 1433
+  jdbcDatabase:
+    - <database name>
+  # properties:
+  #   user: - <user name>
+  #   password: - <password>

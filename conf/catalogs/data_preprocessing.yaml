@@ -1,0 +1,4 @@
+paths:
+  custom_sentiment: Data/Input/sentiment_custom.csv
+  output_path: Data/Final_Output/
+  temp_path: Data/Interim_data/

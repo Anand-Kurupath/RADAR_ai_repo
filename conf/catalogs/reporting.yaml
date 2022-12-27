@@ -1,0 +1,5 @@
+reporting:
+  output:
+    file_path: <file path>
+    file_name: <file name>
+    file_format: <format>

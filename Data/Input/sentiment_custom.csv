@@ -1,0 +1,135 @@
+Keyword ,Polarity,mapping
+Complaint,Negative,Customer service
+complaints,Negative,Customer service
+Unfair practices,Negative,Customer service
+Misrepresentation,Negative,Customer service
+High interest,Negative,Customer service
+High charges,Negative,Customer service
+High Penalty,Negative,Customer service
+High fees,Negative,Customer service
+Unknown charges,Negative,Customer service
+Fraud,Negative,Customer service
+Unauthorized,Negative,Customer service
+harassment,Negative,Customer service
+harass,Negative,Customer service
+phone hack,Negative,Customer service
+contact list hack,Negative,Customer service
+threats,Negative,Customer service
+threaten,Negative,Customer service
+threatened,Negative,Customer service
+abuse,Negative,Customer service
+abusive,Negative,Customer service
+force,Negative,Customer service
+ATM closure,Negative,Customer service
+bad language,Negative,Customer service
+Branch manager,Neutral,Customer service
+Staff shortage,Negative,Customer service
+OTP issue,Negative,Customer service
+Server down,Negative,Customer service
+Poor service,Negative,Customer service
+Bad service,Negative,Customer service
+staff behaviour,Negative,Customer service
+lost deposit,Negative,Customer service
+ED,Negative,Corporate Governance
+Enforcement Directorate,Negative,Corporate Governance
+Central Bureau Investigation,Negative,Corporate Governance
+Central Bureau of Investigation,Negative,Corporate Governance
+CBI,Negative,Corporate Governance
+Investigation,Negative,Corporate Governance
+Special Audit ,Negative,Corporate Governance
+Governance issues,Negative,Corporate Governance
+Management change,Negative,Corporate Governance
+related parties,Negative,Corporate Governance
+Related party,Negative,Corporate Governance
+Fraud,Negative,Corporate Governance
+Conflict interest,Negative,Corporate Governance
+Conflict of interest,Negative,Corporate Governance
+Resignation ,Negative,Corporate Governance
+Default ,Negative,Corporate Governance
+Digital lending,Neutral,Digital lending
+Digital lending platform ,Neutral,Digital lending
+mobile based lending platform,Neutral ,Digital lending
+Digital credit,Neutral,Digital lending
+Digital mode credit,Neutral,Digital lending
+Online credit,Neutral,Digital lending
+online instant credit,Neutral,Digital lending
+mobile app,Neutral,Digital lending
+mobile applications,Neutral,Digital lending
+mobile apps,Neutral,Digital lending
+digitised loan,Neutral,Digital lending
+Digital loan,Neutral,Digital lending
+Tie ups fintechs,Neutral,Digital lending
+Tie ups with fintechs,Neutral,Digital lending
+digital lending apps,Neutral,Digital lending
+Tie ups DLAs,Neutral,Digital lending
+Tie ups with DLAs,Neutral,Digital lending
+Instant digital loans,Neutral,Digital lending
+Online platforms,Neutral,Digital lending
+Virtual lending,Neutral,Digital lending
+Algorithm based lending,Neutral,Digital lending
+Digitally sourced credit,Neutral,Digital lending
+Buy,Positive ,Investor outlook
+Sell,Negative,Investor outlook
+Long,Positive ,Investor outlook
+Short,Negative,Investor outlook
+Buy Rating,Positive ,Investor outlook
+Sell Rating ,Negative,Investor outlook
+Neutral,Neutral,Investor outlook
+Hold,Neutral,Investor outlook
+Accumulate,Positive,Investor outlook
+Add Rating,Positive,Investor outlook
+Structurally positive ,Positive,Investor outlook
+Strong,Positive ,Investor outlook
+Robust,Positive ,Investor outlook
+Healthy,Positive ,Investor outlook
+Consistent,Positive,Investor outlook
+Pickup,Positive,Investor outlook
+Stable,Positive,Investor outlook
+improved,Positive,Investor outlook
+Improvement,Positive,Investor outlook
+Weakness,Negative,Investor outlook
+Comfort,Positive,Investor outlook
+Pressure,Negative,Investor outlook
+Pressures,Negative,Investor outlook
+Top buy,Positive,Investor outlook
+Top pick,Positive,Investor outlook
+Preferred buy,Positive,Investor outlook
+sustainable,Positive,Investor outlook
+sustainably,Positive,Investor outlook
+sustain ,Positive,Investor outlook
+Impressive,Positive,Investor outlook
+Encouraging,Positive,Investor outlook
+Upside,Positive,Investor outlook
+Downside,Negative,Investor outlook
+Downgrade,Negative,Investor outlook
+Challenges ,Negative,Investor outlook
+Overshadow,Negative,Investor outlook
+Suppressed ,Negative,Investor outlook
+Concerns,Negative,Investor outlook
+Woes,Negative,Investor outlook
+Subdued,Negative,Investor outlook
+stressed,Negative,Investor outlook
+Stress,Negative,Investor outlook
+Negative stance,Negative,Investor outlook
+Positive stance,Positive,Investor outlook
+Non payment,Negative,Credit Risk
+Default ,Negative,Credit Risk
+Credit risk,Negative,Credit Risk
+Collateral,Negative,Credit Risk
+Bankrupt,Negative,Credit Risk
+Bankruptcy,Negative,Credit Risk
+Insolvent,Negative,Credit Risk
+Problem Loan,Negative,Credit Risk
+Non performing,Negative,Credit Risk
+Credit loss,Negative,Credit Risk
+Refinancing,Negative,Credit Risk
+Refinance,Negative,Credit Risk
+Restructuring,Negative,Credit Risk
+Restructure,Negative,Credit Risk
+technical glitch,Negative,Customer service
+tech glitch,Negative,Customer service
+glitch,Negative,Customer service
+technical error,Negative,Customer service
+tech error,Negative,Customer service
+error,Negative,Customer service
+software glitch,Negative,Customer service

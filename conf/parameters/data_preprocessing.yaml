@@ -1,0 +1,36 @@
+ScrapeTweets:
+  dates:
+    start_date: "2022-01-01"
+    end_date: "2022-12-23"
+
+  search_term :
+    - hdfc
+    # - bank of baroda
+    # - union bank of india
+    # - state bank of india
+    - icici bank
+    # - kotak mahindra
+    # - idfc first bank
+    # - utkarsh small finance
+    # - ujjivan small finance
+    - citibank
+    # - hongkong and shanghai banking
+    # - paytm payments bank
+    # - india post payments bank
+    # - shriram city union finance
+    # - mahindra & mahindra financial
+    - bajaj finance
+    # - hdfc holdings
+    # - five star business finance
+    # - sbi cards & payment services
+    # - muthoot finance
+    # - oxyzo financial services
+    - tvs credit
+    # - hinduja leyland finance
+    # - hero fincorp
+    # - indian renewable energy development agency
+    - rbl
+    - pnp housing
+    - yes bank
+    - au finance
+    - sbm
